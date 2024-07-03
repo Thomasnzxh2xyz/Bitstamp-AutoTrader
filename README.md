@@ -1,0 +1,2 @@
+# Bitstamp-AutoTrader
+Bitstamp AutoTrader
